@@ -1,0 +1,13 @@
+{
+    "description": "CCDS domain, subdomain are used for accessing multiple service. eg., npm.elias.is-not-a.dev for node proxy manager",
+    "domain": "is-not-a.dev",
+    "subdomain": "*.ccds",
+    "owner": {
+        "repo": "https://github.com/eliasnau/register",
+        "email": "elias@codity.net"
+    },
+    "record": {
+        "A": ["195.201.197.87"]
+    },
+    "proxied": false
+}
